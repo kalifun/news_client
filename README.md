@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## doc  
+
+[Welcome](doc/1welcome/README.md)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
